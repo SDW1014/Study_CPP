@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Chatgpt_Folder">
+      <UniqueIdentifier>{a2800ad0-4408-4c6f-b4ef-59f5da506917}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Chatgpt_Folder">
+      <UniqueIdentifier>{a435c2b2-c934-407e-aa72-8566376cc25c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chatgpt_Folder\1~10">
+      <UniqueIdentifier>{1c2dedc5-0787-471d-b92b-1abf760408d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Chatgpt_Folder\1~10">
+      <UniqueIdentifier>{5fcae331-6eae-496e-8978-ecb87a6146b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chatgpt_Folder\11~20">
+      <UniqueIdentifier>{49d95694-d494-458d-bc56-aa48f58277b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Chatgpt_Folder\21~30">
+      <UniqueIdentifier>{47cdd9be-6c96-4068-a929-5a3a3d959dcd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Chatgpt_Folder\11~20">
+      <UniqueIdentifier>{5a6a51b2-ed49-4474-a294-6aeb61e18d3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chatgpt_Folder\21~30">
+      <UniqueIdentifier>{79b55889-3004-452c-a50d-4184c24b92b8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Study_CPP.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_1.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_2.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_3.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_4.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_5.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_6.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_7.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_8.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_9.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_10.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\1~10</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_11.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_12.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_13.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_14.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_15.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_16.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_17.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_18.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_19.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_20.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\11~20</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_21.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_22.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_23.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_24.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_25.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_26.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_27.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_28.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_29.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\21~30</Filter>
+    </ClCompile>
+    <ClCompile Include="Chatgpt_30.cpp">
+      <Filter>소스 파일\Chatgpt_Folder\21~30</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Chatgpt_1.h">
+      <Filter>헤더 파일\Chatgpt_Folder\1~10</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_2.h">
+      <Filter>헤더 파일\Chatgpt_Folder\1~10</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_3.h">
+      <Filter>헤더 파일\Chatgpt_Folder\1~10</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_4.h">
+      <Filter>헤더 파일\Chatgpt_Folder\1~10</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_5.h">
+      <Filter>헤더 파일\Chatgpt_Folder\1~10</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_6.h">
+      <Filter>헤더 파일\Chatgpt_Folder\1~10</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_7.h">
+      <Filter>헤더 파일\Chatgpt_Folder\1~10</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_8.h">
+      <Filter>헤더 파일\Chatgpt_Folder\1~10</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_9.h">
+      <Filter>헤더 파일\Chatgpt_Folder\1~10</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_10.h">
+      <Filter>헤더 파일\Chatgpt_Folder\1~10</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_11.h">
+      <Filter>헤더 파일\Chatgpt_Folder\11~20</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_12.h">
+      <Filter>헤더 파일\Chatgpt_Folder\11~20</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_13.h">
+      <Filter>헤더 파일\Chatgpt_Folder\11~20</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_14.h">
+      <Filter>헤더 파일\Chatgpt_Folder\11~20</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_15.h">
+      <Filter>헤더 파일\Chatgpt_Folder\11~20</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_16.h">
+      <Filter>헤더 파일\Chatgpt_Folder\11~20</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_17.h">
+      <Filter>헤더 파일\Chatgpt_Folder\11~20</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_18.h">
+      <Filter>헤더 파일\Chatgpt_Folder\11~20</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_19.h">
+      <Filter>헤더 파일\Chatgpt_Folder\11~20</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_20.h">
+      <Filter>헤더 파일\Chatgpt_Folder\11~20</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_21.h">
+      <Filter>헤더 파일\Chatgpt_Folder\21~30</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_22.h">
+      <Filter>헤더 파일\Chatgpt_Folder\21~30</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_23.h">
+      <Filter>헤더 파일\Chatgpt_Folder\21~30</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_24.h">
+      <Filter>헤더 파일\Chatgpt_Folder\21~30</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_25.h">
+      <Filter>헤더 파일\Chatgpt_Folder\21~30</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_26.h">
+      <Filter>헤더 파일\Chatgpt_Folder\21~30</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_30.h">
+      <Filter>헤더 파일\Chatgpt_Folder\21~30</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_28.h">
+      <Filter>헤더 파일\Chatgpt_Folder\21~30</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_29.h">
+      <Filter>헤더 파일\Chatgpt_Folder\21~30</Filter>
+    </ClInclude>
+    <ClInclude Include="Chatgpt_27.h">
+      <Filter>헤더 파일\Chatgpt_Folder\21~30</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
